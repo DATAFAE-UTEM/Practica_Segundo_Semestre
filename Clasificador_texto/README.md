@@ -1,5 +1,7 @@
 # Clasificador de texto.
-## Este proyecto forma parte del trabajo que desempeñaron los practicantes el semestre pasado. Consiste básicamente en un código que extrae links 
+## Este proyecto forma parte del trabajo que desempeñaron los practicantes el semestre pasado. 
+
+Consiste básicamente en un código que extrae links 
 desde la CMF, que almacena noticias financieras en formato PDF, para posteriormente, utilizando R, extraer esa información, limpiarla, e interpretarla en 
 un análisis automático de texto. Nuestro rol en este proyecto es el de aportar en esta última parte, que consiste en buscar los criterios con los cuales el 
 interpretador puede basarse para clasificar la información, estableciendo esquemas similares a mapas mentales que explican qué es lo que dice una noticia 
